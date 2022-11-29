@@ -1,5 +1,3 @@
-# Microsoft BuildFor2030 Hackathon
- In our project we are saving paper by providing solution for three problems which faced by major healthcare industry - Schedule Appointment, Automate Insurance Claim, Medicare Data Analytics
 ## Youtube Link : [https://youtu.be/5161VbIb01A)
 
 ## Website Link : [https://microsofthacks2023.azurewebsites.net](https://microsofthacks2023.azurewebsites.net)
@@ -16,13 +14,11 @@
 
 <li>**Webview:-**</li>
 <br>
-&emsp;&emsp;The site has been hosted in azure web app services which shows keen view of data analytics and AI bot features [WebviewLink](https://civiccodehackathon.azurewebsites.net/).
+&emsp;&emsp;The site has been hosted in azure web app services which shows keen view of data analytics and AI bot features [WebviewLink](https://microsofthacks2023.azurewebsites.net/).
 
 <li>**Github:-**</li>
 <br>
-&emsp;&emsp;The site has been hosted in Github which includes project repository-[WebviewLink](https://github.com/TWILIGHTCLOUDCODERZ/civiccode.git).
-
-&emsp;&emsp;PowerBi data Visualization which shows keen view of medicare charge according to country and provider wise  [WebviewLink](https://app.powerbi.com/view?r=eyJrIjoiYzk0NTVmYjYtYjNmMS00MTljLWI3NDktZDliNzg3YzQ0Y2FkIiwidCI6IjFlZjdkZjkzLWU0YTUtNDA0Ny05MGYwLTdmMGQ5YmM2MzdjMSIsImMiOjh9&pageName=ReportSection).
+&emsp;&emsp;The site has been hosted in Github which includes project repository-[WebviewLink](https://github.com/TWILIGHTCLOUDCODERZ/Microsoft-BuildFor2030-Hackathon.git).
 
 ###More in detail about application,
 <br>
@@ -30,8 +26,8 @@
 
 <li>**AI-BOT :-**</li>
 <br>
- &emsp;&emsp; I-CARE-YOU Ai Bot schedule medical appointment as per doctor availability and to customer need without reaching service desk and confirmation mail of the appointment sent to mail address 
- &emsp;&emsp;I-CARE-YOU Ai Bot checks Patient Insurance policy number in the data record which is stored in Cosmodb and post validation shares the document for claiming insurance which includes all mandatory like bill invoice upload option and share the document to admin for validation post patient document submission everything carried through automation.
+ &emsp;&emsp; Ai Bot schedule medical appointment as per doctor availability and to customer need without reaching service desk and confirmation mail of the appointment sent to mail address 
+ &emsp;&emsp; Ai Bot checks Patient Insurance policy number in the data record which is stored in Cosmodb and post validation shares the document for claiming insurance which includes all mandatory like bill invoice upload option and share the document to admin for validation post patient document submission everything carried through automation.
 
 <li>**Data Analytics:-**</li>
 <br>
@@ -45,8 +41,6 @@ Application is built using java,html,css3,and data stored in shared point.
 <li>**webview:-**</li>
 <br>
  &emsp;&emsp; Built using Html,css3,java,json,bootstrap, hosted in Azure web apps.
-![webapp](https://user-images.githubusercontent.com/101945531/200179218-ec7a1328-bd13-4500-a3e4-909bb58f4f24.JPG)
-
 <li>**Backend:-**</li>
 <br>
  &emsp;&emsp;Once the form is submitted data stored in cosmodb,Blob Container with help of powerflow, Powerautomate.
@@ -64,7 +58,7 @@ Application is built using java,html,css3,and data stored in shared point.
 <br>
 &emsp;&emsp;Transform faster with intelligent intent-driven mapping that automates copy activities.
 Extract/load/Transform copy,move data and drift columns which is used for data segregation.
- ![powerbicivicode](https://user-images.githubusercontent.com/101945531/200179191-6ea69ab9-b5b5-4154-a7e1-c72ded0dfe09.JPG)
+
 ## Accomplishments that we're proud of
 
 &emsp;&emsp;Learn't about AI feature and Data Analytics.
